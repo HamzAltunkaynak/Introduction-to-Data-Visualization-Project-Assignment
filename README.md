@@ -127,7 +127,7 @@ python main.pyw
 
  ---
 
-## 🧩 Sistem Mimarisi
+## 🔄 Sistem Akış Diyagramı
 
 ```mermaid
 flowchart TD
@@ -168,4 +168,5 @@ O --> V
 P --> V
 Q --> V
 T --> V
+U --> V
 U --> V
